@@ -14,7 +14,7 @@ type = "featured"
 
 #### What's to like about it?
 
-This particular recipe is a ~~family favorite~~ bachelor favorite. Tomato and paprika is a foolproof combination, and the olive oil and garlic bring it together nicely. This one-pot recipe offers an excellent meal with a little bit of preparation and minimal cleanup.
+This particular recipe is a ~~family favorite~~ bachelor favorite. Tomato and paprika is a foolproof combination, and the olive oil, garlic, and freshly ground black pepper bring it together nicely. This one-pot recipe offers an excellent meal with a little bit of preparation and minimal cleanup.
 
 #### Anything to know before making it?
 
