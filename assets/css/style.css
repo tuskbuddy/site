@@ -857,4 +857,10 @@ blockquote {
   color: #ff6f00;
 }
 
+/* ECW changes */
+.col-lg-4 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 /*# sourceMappingURL=maps/style.css.map */
