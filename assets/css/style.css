@@ -2,7 +2,7 @@
 [MAIN STYLESHEET]
 
 PROJECT:	Project Name
-VERSION:	Versoin Number
+VERSION:	Version Number
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
@@ -812,8 +812,12 @@ blockquote {
 }
 
 .content img{
-  max-width: 100%;
+  max-width: 38%;
   height: auto;
+}
+
+.content p {
+  text-align: justify;
 }
 
 .widget {
