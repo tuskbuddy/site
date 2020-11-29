@@ -18,4 +18,4 @@ This is perhaps the best meal I've made this year. It's much better than takeout
 
 #### Anything to know before making it?
 
-Nope, follow it as is! Chef John cut the chicken into mid-sized chunks, but I cut mine into thin strips and really enjoyed it that way. I also didn't use ground cardamom my first time since I didn't have any on hand (and it can be more expensive than it's worth), but the meal was mighty excellent without it.
+Chef John cut the chicken into mid-sized chunks, but I cut mine into thin strips and really enjoyed it that way. I didn't use ghee or ground cardamom my first time since I didn't have any on hand (and both can be more expensive than they're worth), but the meal was mighty excellent without them.
