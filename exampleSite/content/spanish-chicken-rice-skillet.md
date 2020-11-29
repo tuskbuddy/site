@@ -1,5 +1,5 @@
 +++
-categories = ["One Pot Meal", "Spanish"]
+categories = ["One Pot Meal"]
 date = 2020-11-29T01:06:00Z
 description = ""
 image = "/images/spanish-chicken-rice.png"
