@@ -2,7 +2,7 @@
 categories = ["One Pot Meal"]
 date = 2020-11-29T01:06:00Z
 description = ""
-image = "/images/spanish-chicken-rice-feat.png"
+image = "/images/spanish-chicken-rice.png"
 tags = ["Spanish", " chicken", "one-pot"]
 title = "Spanish Chicken & Rice Skillet"
 type = "featured"
