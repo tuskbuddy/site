@@ -18,7 +18,7 @@ Everything. I love fried rice. The sesame oil, garlic, and Worcestershire sauce 
 
 #### Anything to know before making it?
 
-The recipe uses light and dark soy sauce. If you don't have one or the other, you can use regular soy sauce without making a major difference.
+The recipe uses light and dark soy sauce. If you don't have one or the other, you can use regular soy sauce without making a major difference. You can also replace the Shaoxing wine with rice vinegar.
 
 Do add a bit more soy sauce, 1/2 tsp garlic powder, and 1-2 tbsp Worcestershire sauce at the very end. Guaranteed restaurant-quality fri-ri. Feel free to add green peppers, shredded carrots, or peas at the end as well.
 
