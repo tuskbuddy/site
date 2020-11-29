@@ -2,7 +2,6 @@
 categories = ["Fried Rice"]
 date = 2020-11-29T20:49:00Z
 description = "Delicious, succulent chicken fried rice."
-draft = true
 image = "/images/chicken-fried-rice.png"
 tags = ["Asian", "fried rice", "rice", "chicken", "wok"]
 title = "Chicken Fried Rice"
