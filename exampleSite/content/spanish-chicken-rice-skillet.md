@@ -18,4 +18,4 @@ This particular recipe is a ~~family favorite~~ bachelor favorite. Tomato and pa
 
 #### Anything to know before making it?
 
-I'm not normally keen on green olives, but I really enjoy what they bring in this dish. If you can eat olives on pizza, you may want to consider throwing a few into the pot at the end. If you don't like them, there's no shame in that: a half cup of diced green peppers offers similar greenery and texture if you're not a fan. If you like them so much you can eat a full jar in one sitting, then I'm confident your stomach of steel will handle this recipe just fine.
+I'm not normally keen on green olives, but I really enjoy what they bring in this dish. If you can eat olives on pizza, you may want to consider throwing a few into the pot at the end. If you don't like them, there's no shame in that: a half cup of diced green peppers offers similar greenery and texture if you're not a fan. If you like them so much you can eat a full jar in one sitting, then I'm confident your stomach of steel will handle this recipe quite well.
