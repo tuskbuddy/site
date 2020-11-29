@@ -3,7 +3,7 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "tuskbuddy"
+title = "tuskbuddy.tk"
 [[menu.main]]
 hasChildren = true
 name = "Homepage"
