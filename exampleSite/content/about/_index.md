@@ -1,8 +1,8 @@
 ---
 title: About
-date: 2020-11-29T19:27:10+00:00
+date: 2020-11-29T19:27:10.000+00:00
 description: About Me
-image: images/author.jpg
+image: images/food-about.jpg
 
 ---
 I'm an aerospace engineer from Ohio who currently lives in Houston, Texas. I enjoy eating Indian food, drinking cold brew coffee, and playing Breath of the Wild.
