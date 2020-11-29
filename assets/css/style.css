@@ -334,7 +334,7 @@ a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: #fdefe6 !important;
+  background: #bbd4cb !important;
 }
 
 .text-primary {
@@ -662,7 +662,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #fdefe6 0);
+  background-image: linear-gradient(#fff 45%, #bbd4cb 0);
 }
 
 .dividers {
@@ -802,7 +802,7 @@ textarea.form-control {
 blockquote {
   font-style: italic;
   color: #000000;
-  background: #fdefe6;
+  background: #bbd4cb;
   padding: 20px;
   font-weight: 600;
 }
