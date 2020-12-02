@@ -16,7 +16,7 @@ This delectable recipe comes from a site called [Tastes Better from Scratch](htt
 
 Hands-down the best pad thai recipe I've ever made. It _is_ the only pad thai recipe I've ever made, but it's far too good to let any other recipe even attempt to claim superiority to this restaurant-grade meal.
 
-I have, however, made a few changes to the original recipe, as you'll see below. As someone who has read many reviews of people praising the recipe while changing practically everything except the main ingredient, I've made the recipe both ways. It's a delightful recipe as-is, and while I believe the changes I've made make it better, you are more than welcome to make pad thai however you please.
+I have, however, made a few changes to the original recipe, as you'll see below. As someone who has read many reviews of people praising the recipe while changing practically everything except the main ingredient, I've made the recipe both ways. It's a delightful recipe as-is: the changes I've made add more sauce to the dish, use more common ingredients, and give it a slightly tangier flavor. That said, you are more than welcome to make pad thai however your wonderful heart desires.
 
 #### Anything to know before making it?
 
