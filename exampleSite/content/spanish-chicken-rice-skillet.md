@@ -8,13 +8,11 @@ title = "Spanish Chicken & Rice Skillet"
 type = "featured"
 
 +++
+This particular recipe is a ~~family favorite~~ bachelor favorite. Tomato and paprika is a foolproof combination, and the olive oil, garlic, and freshly ground black pepper bring it together nicely. This one-pot recipe offers an excellent meal with a small amount of preparation and minimal clean-up.
+
 #### Where's this recipe from?
 
-[This recipe's from Emily Bites!](https://emilybites.com/2018/07/spanish-chicken-and-rice-skillet.html "Spanish Chicken & Rice") She has plenty of homestyle-ish recipes that have been battle-tested in Wengerd households across the nation.
-
-#### What's to like about it?
-
-This particular recipe is a ~~family favorite~~ bachelor favorite. Tomato and paprika is a foolproof combination, and the olive oil, garlic, and freshly ground black pepper bring it together nicely. This one-pot recipe offers an excellent meal with a small amount of preparation and minimal clean-up.
+[Emily Bites!](https://emilybites.com/2018/07/spanish-chicken-and-rice-skillet.html "Spanish Chicken & Rice") That's the name of the website, not an express disdain for my real estate agent. She has plenty of homestyle-ish recipes that have been battle-tested in Wengerd households across the nation.
 
 #### Anything to know before making it?
 
