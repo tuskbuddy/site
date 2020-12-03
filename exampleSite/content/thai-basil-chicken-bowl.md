@@ -8,13 +8,11 @@ title = "Thai Basil Chicken Bowl"
 type = "post"
 
 +++
+This recipe is a stir-fry classic. It sounds, smells, and tastes like good stir-fry, and is more robust than something you'd find at most Chinese restaurants or make from bottles with pre-made sauce. I haven't been able to make it with fresh Thai basil yet, but it's plenty delicious with Italian basil or dried basil.
+
 #### Where's this recipe from?
 
 [RealSimpleGood](https://realsimplegood.com/thai-basil-chicken-bowls/ "Real. Comfortable. Jeans."), which is a recipe-lifestyle site for those on paleo, Whole30, or keto diets. Recipes from those diets tend to cater better to what I can eat than traditional recipes, so I've used their ideas as inspiration for some of my own.
-
-#### What's to like about this recipe?
-
-It's a stir-fry classic. It sounds, smells, and tastes like good stir-fry, and is more robust than something you'd find at most Chinese restaurants or make from bottles with pre-made sauce. I haven't been able to make it with fresh Thai basil yet, but it's plenty delicious with Italian basil or dried basil.
 
 #### Anything to know before making it?
 
