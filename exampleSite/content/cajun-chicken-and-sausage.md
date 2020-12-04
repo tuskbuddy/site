@@ -8,7 +8,7 @@ title = "Cajun Chicken and Sausage"
 type = "post"
 
 +++
-This recipe is exactly what it sounds and looks like. It's spicy (both in terms of heat and amount of spices added to the dish), and the juices from the meats and chicken broth make the pasta wonderfully creamy.
+This recipe is exactly what it sounds and looks like: pasta, chicken, sausage, and lots of spices. It's spicy (both in terms of heat and amount of spices added to the dish), and the juices from the meats and chicken broth make the pasta wonderfully creamy.
 
 An unspoken theme of this recipe book of a website is chicken: over 90% of my main dish recipes involve chicken. It's just so good. I'm quite aware of this, and I hope this recipe is refreshing for those of you with a more diverse meat repertoire.
 
