@@ -12,7 +12,7 @@ It's a simple dish, but the olive oil, sweet potatoes, and oregano are delightfu
 
 #### Where's this recipe from?
 
-This one comes straight from [RealSimpleGood](https://realsimplegood.com/one-pan-honey-garlic-chicken/ "RSG"). They have 18 pages of recipes for gluten-free, dairy-free, paleo, keto, and Whole30 eaters. I don't know what a paleo diet is, but this recipe fits within the constraints of it, and probably a few others as well.
+This one comes straight from [RealSimpleGood](https://realsimplegood.com/one-pan-honey-garlic-chicken/ "RSG"). They have 18 pages of recipes for gluten-free, dairy-free, paleo, keto, and Whole30 eaters. If you are on one of these diets, or on all five at once, this is the place for you. I don't know what a paleo diet is, but this recipe fits within the constraints of it, and probably a few others as well.
 
 #### Anything to know before making it?
 
