@@ -12,7 +12,7 @@ This particular recipe is a ~~family favorite~~ bachelor favorite. Tomato and pa
 
 #### Where's this recipe from?
 
-[Emily Bites!](https://emilybites.com/2018/07/spanish-chicken-and-rice-skillet.html "Spanish Chicken & Rice") That's the name of the website, not an express disdain for my real estate agent. She has plenty of homestyle-ish recipes that have been battle-tested and are made semi-regularly in Wengerd households across the nation. For those looking to eat well, she also provides Weight Watchers points for each recipe.
+[Emily Bites!](https://emilybites.com/2018/07/spanish-chicken-and-rice-skillet.html "Spanish Chicken & Rice") That's the name of the website, not an express disdain for my real estate agent. She has plenty of homestyle-ish recipes that have been battle-tested in Wengerd households across the nation. For those looking to eat well, she also provides Weight Watchers points for each recipe.
 
 #### Anything to know before making it?
 
