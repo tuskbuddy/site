@@ -14,7 +14,7 @@ An unspoken theme of this recipe book of a website is chicken: over 90% of my ma
 
 #### Where's this recipe from?
 
-This one-pot spicy dish is taken from [Emily Bites](). Per the site tagline, she specializes in lightened-up comfort food, and provides Weight Watchers points for each recipe for those in the WW loop.
+This one-pot spicy dish is taken from [Emily Bites](). Per the site tagline, she specializes in lightened-up comfort food.
 
 #### Anything to know before making it?
 
