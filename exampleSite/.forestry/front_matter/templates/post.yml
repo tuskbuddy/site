@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/cajun-chicken-and-sausage.md
 - exampleSite/content/chef-john-s-tikka-masala.md
 - exampleSite/content/chicken-fried-rice.md
 - exampleSite/content/chicken-tortilla-soup.md
