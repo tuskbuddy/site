@@ -16,6 +16,6 @@ This one comes straight from [RealSimpleGood](https://realsimplegood.com/one-pan
 
 #### Anything to know before making it?
 
-The one-pot nature of this dish allows for relatively short prep time, but most of that will be spent chopping sweet potatoes, which can be difficult to cut without a strong knife. Since chicken tends to dry out easily in the oven, you may also want to sear your chicken in a skillet with some olive oil for a few minutes before putting it in the pan.
+The one-pot nature of this dish allows for relatively short prep time, but most of that will be spent chopping sweet potatoes, which can take time to cut without a strong knife. Since chicken tends to dry out easily in the oven, you may also want to sear your chicken in a skillet with some olive oil for a few minutes before putting it in the pan.
 
 Dijon mustard is just as good as yellow mustard in terms of ingredient subs. There's also some oiliness to the dish, and you can change the amount of oil you add according to taste. Personally, I like adding the full amount for the sake of the sweet potatoes and broccoli, then draining it at the end.
