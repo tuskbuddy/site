@@ -8,7 +8,7 @@ title = "Honey Garlic Chicken"
 type = "post"
 
 +++
-It's a simple dish, but the olive oil, sweet potatoes, and oregano are delightful. The tiny bit of mustard and honey provide a sweet tangy flavor as well. Surprisingly few ingredients in this one, but it stands above many other recipes with far more ingredients and prep time.
+It's a simple dish, but the olive oil, sweet potatoes, and oregano are delightful. The few tablespoonfuls of mustard and honey provide a sweet tangy flavor as well. Surprisingly few ingredients in this one, but it certainly stands above many other recipes with far more ingredients and prep time.
 
 #### Where's this recipe from?
 
