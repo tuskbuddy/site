@@ -5,7 +5,7 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "tuskbuddy.tk"
 [[menu.main]]
-hasChildren = true
+hasChildren = false
 name = "Homepage"
 url = ""
 weight = 1
