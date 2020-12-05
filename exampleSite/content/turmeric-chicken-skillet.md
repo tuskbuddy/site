@@ -16,6 +16,4 @@ This may be the yellowest meal you'll make all year. It's low-carb, full of vegg
 
 #### Anything to know before making it?
 
-This is a four-star recipe, and it needs one or two things to bring it to five stars. Adding fresh garlic, ginger, Worcestershire sauce, or curry powder may bring it to its best.
-
-If you're cooking this for 1-2 people, use a whole head of cabbage and don't bother with the spinach or kale. One head seems like a lot, but it cooks down quickly. You can also get away with using ground cilantro instead of the fresh stuff.
+This is a four-star recipe, and it needs one or two things to bring it to five stars. Adding fresh garlic, ginger, Worcestershire sauce, or curry powder may bring it to its best. If you're cooking this for 1-2 people, use a whole head of cabbage and don't bother with the spinach or kale. One head seems like a lot, but it cooks down quickly. You can also get away with using ground cilantro instead of the fresh stuff.
