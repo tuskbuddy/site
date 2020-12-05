@@ -8,7 +8,7 @@ title = "Garlic Herb Spelt Breadsticks"
 type = "post"
 
 +++
-Mmm, breadsticks. Spelt flour is great for the gluten-sensitive, but it also adds a nutty flavor lacking in all-purpose flour. This dish is best made with white spelt flour, but wheat flour makes good breadsticks when warm and paired with heaps of marinara sauce.
+Mmm, breadsticks. Spelt flour is great for the gluten-sensitive, but it also adds a nutty flavor lacking in all-purpose flour. Our family has made this dish many, many times, and it has been solid every single time.
 
 #### Where's the recipe from?
 
@@ -16,4 +16,4 @@ Mmm, breadsticks. Spelt flour is great for the gluten-sensitive, but it also add
 
 #### Anything to know before making it?
 
-The recipe calls for 3 cups of spelt flour, but you'll likely need 4 or more, which will make 12-18 breadsticks. Make small breadsticks to start and spread the baking sheet with olive oil before letting rise.
+This dish is best made with white spelt flour, but whole spelt flour makes good breadsticks when warm and paired with heaps of marinara sauce. You will definitely want some marinara when the breadsticks finish baking. The recipe calls for 3 cups of spelt flour, but you'll likely need 4 or more, which will make 12-18 breadsticks. Make small breadsticks to start and spread the baking sheet with olive oil before letting rise.
