@@ -42,13 +42,13 @@ layout = "1"
 logo = "images/tuskbuddy-logo.png"
 mobile = ""
 preloader = true
-search = true
+search = false
 [params.cookies]
 enable = false
 expire_days = 2
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
-enable = true
+enable = false
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -78,14 +78,11 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = "ti-facebook"
-url = "example.com"
-[[params.social]]
-icon = "ti-twitter-alt"
-url = "#"
-[[params.social]]
-icon = "ti-linkedin"
-url = "#"
-[[params.social]]
 icon = "ti-github"
-url = "#"
+url = "github.com/tuskbuddy"
+[[params.social]]
+icon = "ti-marker"
+url = "gitlab.com/tuskbuddy"
+[[params.social]]
+icon = "ti-youtube"
+url = "youtube.com/user/ninjastealthiness"
