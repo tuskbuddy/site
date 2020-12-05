@@ -75,10 +75,10 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.social]]
 icon = "ti-github"
-url = "github.com/tuskbuddy"
+url = "https://www.github.com/tuskbuddy"
 [[params.social]]
 icon = "ti-marker"
-url = "gitlab.com/tuskbuddy"
+url = "https://www.gitlab.com/tuskbuddy"
 [[params.social]]
 icon = "ti-youtube"
-url = "youtube.com/user/ninjastealthiness"
+url = "https://www.youtube.com/user/ninjastealthiness"
