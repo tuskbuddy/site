@@ -8,7 +8,7 @@ title = "Chicken Coconut Curry"
 type = "post"
 
 +++
-This meal's deliciousness-to-time ratio is sky-high. One of the things that makes Indian food good is caramelization, and this recipe starts with it right off the bat with onions and chicken with wonderful, fragrant spices. From there, it's about simmering and adding liquid until you smell the garam masala and curry powder wafting through your kitchen.
+This meal's deliciousness-to-time ratio is sky-high. One of the things that makes Indian food good is caramelization, and this recipe starts with it right off the bat with onions and chicken with wonderful, fragrant spices. From there, it's about simmering and adding liquid until the chicken is tender and the aroma of garam masala and curry powder is wafting through your coconut curry kitchen.
 
 #### Where's this recipe from?
 
