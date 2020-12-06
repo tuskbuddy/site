@@ -18,6 +18,6 @@ This cake recipe was crafted by [The Pretty Bee](https://theprettybee.com/easies
 
 #### Anything to know before making it?
 
-This cake will be a little more difficult to frost than normal cakes, but it's more than doable for a single pan. If you're concerned about presentation, I recommend dusting the top with powdered sugar instead.
+This cake is a little more difficult to frost than normal cakes, but it's more than doable for a single pan. If you're concerned about presentation, I recommend dusting the top with powdered sugar instead.
 
 My family made a version of this recipe that substituted a 1/2 cup of coffee for a 1/2 cup of cold water, and I highly recommend making the sub if it's not much trouble. There wasn't much difference between this and the original, but the coffee added just enough flavor to notice a delightful change.
