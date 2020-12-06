@@ -12,7 +12,7 @@ This meal's deliciousness-to-time ratio is sky-high. One of the things that make
 
 #### Where's this recipe from?
 
-[The Pretty Bee](https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/ "The Pretty Bee")! The author of this particular recipe notes that chicken coconut curry over Jasmine rice is her family's all-time favorite meal, which should highlight the excellence of this particular dish.
+[The Pretty Bee](https://theprettybee.com/easy-dairy-free-chicken-coconut-curry/ "The Pretty Bee") gets the well-deserved credit for this one! The author of this particular recipe notes that chicken coconut curry over Jasmine rice is her family's all-time favorite meal, which should highlight the excellence of this particular dish.
 
 #### Anything to know before making it?
 
