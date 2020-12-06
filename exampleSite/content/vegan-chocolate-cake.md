@@ -10,7 +10,7 @@ type = "post"
 +++
 Don't let the "vegan" bit turn you away. Oreos are vegan, and we all know how delicious the Double Stufs are. And this cake is legitimately good. It's gluten-free, dairy-free, and egg-free, _and_ all of the ingredients are common grocery store items! Incredible! Many gluten-free dessert recipes use obscure ingredients to produce a decadent cake, but this one does very well with what's readily available.
 
-There is one caveat: I wouldn't recommend using this recipe for tiered cakes. The cake doesn't stick together as much as it would with eggs, which can make frosting even a single pan a delicate operation. However, it's excellent for a company party or informal get-together where you need a dessert that just works, every time. If you're looking for a recipe for frostable cake, you can find one [here](https://theprettybee.com/chocolate-cookies-and-cream-cake-gluten-free-vegan/ "GF Frosted Cake").
+There is one caveat: I wouldn't recommend using this recipe for tiered cakes. The cake doesn't stick together as much as it would with eggs, which can make frosting even a single pan a delicate operation. However, it's excellent for a company party or informal get-together where you need a dessert that just works, every time. If you'd like a recipe for frostable cake, you can find one [here](https://theprettybee.com/chocolate-cookies-and-cream-cake-gluten-free-vegan/ "GF Frosted Cake").
 
 #### Where's this recipe from?
 
