@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Desserts"]
 date = 2020-12-08T22:18:00Z
 description = "Only the best."
 image = "/images/chocolate-chip-cookies.png"
