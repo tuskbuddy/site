@@ -12,7 +12,7 @@ This is the only chocolate chip cookie I've made for the past five years. It's a
 
 #### Where's this recipe from?
 
-[The Baking Chocolatess](https://www.thebakingchocolatess.com/perfect-chocolate-chip-cookies/ "The Baking Chocolatess")! There are more dessert recipes on this website than I'm willing to make in my lifetime. The author loves chocolate, and her burning passion for the stuff is evident with the types of desserts she makes.
+[The Baking Chocolatess](https://www.thebakingchocolatess.com/perfect-chocolate-chip-cookies/ "The Baking Chocolatess")! There are more dessert recipes on this website than I'm willing to make in my lifetime. The author loves chocolate, and her burning passion for the stuff is evident with the many types of desserts she has created.
 
 #### Anything to know before making it?
 
