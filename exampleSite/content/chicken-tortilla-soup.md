@@ -3,7 +3,7 @@ categories = ["Soup"]
 date = 2020-12-03T00:48:00Z
 description = "Just realized there are no tortillas in this soup."
 image = "/images/chicken-tortilla-soup.png"
-tags = ["chicken", "soup", "Mexican", "tortilla chips", "cilantro"]
+tags = ["chicken", "soup", "Mexican"]
 title = "Chicken Tortilla Soup"
 type = "post"
 
