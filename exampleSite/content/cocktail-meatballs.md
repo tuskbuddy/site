@@ -8,7 +8,7 @@ title = "Cocktail Meatballs"
 type = "post"
 
 +++
-If you're in the mood for meatballs but aren't looking for a marinara or Swedish-style sauce, this is for you. This sauce is made from all kinds of other sauces: cranberry sauce, barbecue sauce, Worcestershire sauce, and sweet chili sauce all come together under low heat to bring a sweet, tangy, and spicy offering.
+If you're in the mood for meatballs but want an alternative to marinara or Swedish-style sauces, this is for you. This sauce is made from all kinds of other sauces: cranberry sauce, barbecue sauce, Worcestershire sauce, and sweet chili sauce all come together under low heat to bring a sweet, tangy, and spicy offering.
 
 #### Where's this recipe from?
 
