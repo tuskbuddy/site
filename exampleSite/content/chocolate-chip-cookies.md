@@ -8,7 +8,7 @@ title = "Chocolate Chip Cookies"
 type = "post"
 
 +++
-This is the only chocolate chip cookie I've made for the past five years. It's a little crisp on the outside, and chewy on the inside, which is a brutally delicious combination for an excellent cookie. This one is a hit everywhere I take it, and it will take much convincing for me to try another recipe.
+This is the only chocolate chip cookie I've made from scratch for the past few years. It's a little crisp on the outside, and chewy on the inside, which is a brutally delicious combination for an excellent cookie. This one is a hit everywhere I take it, and it will take much convincing for me to try another recipe.
 
 #### Where's this recipe from?
 
