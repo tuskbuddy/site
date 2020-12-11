@@ -8,7 +8,7 @@ title = "Ultimate Chicken Noodle Soup"
 type = "post"
 
 +++
-Chicken, noodles, carrots, and celery in a bowl with bread and crackers on the side is hard to beat. The hearty flavor comes straight from the thyme and bay leaves infused into the broth. Overall, a classic on a cool day.
+Chicken, noodles, carrots, and celery in a bowl with bread and crackers on the side is hard to beat. The hearty flavor comes straight from the thyme and bay leaves infused into the broth. Overall, a classic to warm you up on a cool day.
 
 #### Where's this recipe from?
 
