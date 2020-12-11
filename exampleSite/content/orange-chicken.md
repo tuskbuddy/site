@@ -8,7 +8,7 @@ title = "Orange Chicken"
 type = "post"
 
 +++
-American-Chinese food is a great go-to takeout option, and well-made orange chicken is a delicacy. This recipe uses fresh orange and ginger to deliver a tangy, gingery sauce that gets high ratings from me.
+American-Chinese food is a great go-to takeout option, and well-made orange chicken is a delicacy. This recipe uses fresh orange and ginger to deliver an exotic tangy sauce that gets high ratings from me.
 
 Quick note: this is likely the most time-consuming recipe on this website, but I wouldn't give it the honor of your attention without believing that it's worth the work. It'll take longer, but taste fresher, than takeout.
 
