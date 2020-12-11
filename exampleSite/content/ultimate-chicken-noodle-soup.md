@@ -12,7 +12,7 @@ Chicken, noodles, carrots, and celery in a bowl with bread and crackers on the s
 
 #### Where's this recipe from?
 
-[Taste of Home](https://www.tasteofhome.com/recipes/the-ultimate-chicken-noodle-soup/ "Taste of Home"), the American home-style cooking magazine I'm frankly surprised is still around! Perhaps their most excellent feature is that the ingredients and directions aren't padded with five hundred paragraphs of SEO filler like many other recipe blogs: everything is at the top of the page for your convenience.
+[Taste of Home](https://www.tasteofhome.com/recipes/the-ultimate-chicken-noodle-soup/ "Taste of Home"), the American home-style cooking magazine I'm frankly surprised is still around. Perhaps their most excellent feature is that the ingredients and directions are near the top of the page for your convenience! The important bits are, refreshingly, not padded with five hundred paragraphs of SEO filler like many, many other recipe blogs.
 
 #### Anything to know before making it?
 
