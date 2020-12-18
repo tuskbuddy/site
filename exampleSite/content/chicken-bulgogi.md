@@ -8,7 +8,7 @@ title = "Chicken Bulgogi"
 type = "post"
 
 +++
-Also known as dak bulgogi, this spicy, tender dish is surprisingly simple. Just marinade thin strips of meat overnight in a bag of gochujang with other sweet & savory ingredients, cook it up on medium-high heat or over the grill, and serve over rice.
+Also known as dak bulgogi, this spicy, tender dish is surprisingly simple. Just marinade thin strips of meat overnight in a bag of gochujang with other sweet & savory ingredients, cook it up on medium-high heat or over the grill, and serve over rice with sweet BBQ chips and freshly diced cucumbers on the side.
 
 #### Where's this recipe from?
 
