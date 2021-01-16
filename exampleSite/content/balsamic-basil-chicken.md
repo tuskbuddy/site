@@ -12,7 +12,7 @@ Low-effort, healthy dishes are valuable in this household, and this three-ingred
 
 #### Where's this recipe from?
 
-[Delish](https://www.delish.com/cooking/recipe-ideas/a22607407/balsamic-basil-chicken-recipe/ "Delishhhhh"), which I've mentioned is the BuzzFeed of recipe websites. They're still at it, with can't-miss headlines such as "24 Awesome Pool Floats Every Food Lover Should Own" and "This Pic Of Reese Witherspoon And Ava Phillippe Looking Identical In Holiday Sweaters Got 1.7M Likes".
+[Delish](https://www.delish.com/cooking/recipe-ideas/a22607407/balsamic-basil-chicken-recipe/ "Delishhhhh"), which I've mentioned is like BuzzFeed for recipes. They're still at it with can't-miss headlines such as "24 Awesome Pool Floats Every Food Lover Should Own" and "This Pic Of Reese Witherspoon And Ava Phillippe Looking Identical In Holiday Sweaters Got 1.7M Likes".
 
 #### Anything to know before making it?
 
