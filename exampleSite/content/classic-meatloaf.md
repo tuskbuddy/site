@@ -8,7 +8,7 @@ title = "Classic Meatloaf"
 type = "post"
 
 +++
-Meatloaf with mashed potatoes is my all-time favorite comfort food. The beef and pork mixture with a sauce that perfectly balances sweet and tangy makes this recipe a standout for home-style cooks.
+Meatloaf with mashed potatoes is my all-time favorite comfort food. The beef and pork mixture with a sauce that perfectly balances sweet and tangy makes this recipe a standout for home-style cooks. A good friend of mine ate this and said it was the first good meatloaf he'd ever had.
 
 #### Where's this recipe from?
 
@@ -54,7 +54,7 @@ A bit of vinegar
 
 **Directions**
 
-Saute onion in oil in a small skillet until tender. Cool to room temperature. 
+Saute onion in oil in a small skillet until tender. Cool to room temperature.
 
 Combine the eggs, milk, Worcestershire sauce, mustard, oats, salt, pepper, thyme and onion in a large bowl. Crumble beef and pork over mixture and mix well. Shape into a loaf; place in a greased 11x7 baking dish.
 
