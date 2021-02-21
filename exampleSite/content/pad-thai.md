@@ -3,7 +3,7 @@ categories = ["Asian"]
 date = 2020-11-29T21:05:00Z
 description = "Big bad pad thai."
 image = "/images/pad-thai.png"
-tags = ["pad", "Thai", "Asian", "noodles"]
+tags = ["Thai", "Asian"]
 title = "Pad Thai"
 type = "featured"
 
