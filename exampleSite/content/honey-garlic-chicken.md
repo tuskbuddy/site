@@ -3,7 +3,7 @@ categories = ["One Pot Meal"]
 date = 2020-12-03T23:09:00Z
 description = "Sweet, sweet sweet potatoes."
 image = "/images/honey-garlic-chicken.png"
-tags = ["One Pot", " garlic", "oregano", "quick", "chicken"]
+tags = ["One Pot", "chicken"]
 title = "Honey Garlic Chicken"
 type = "post"
 
