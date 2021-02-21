@@ -3,7 +3,7 @@ categories = ["Indian"]
 date = 2020-12-06T16:04:00Z
 description = "Chicken coconut curry. Coconut chicken curry. Curry with chickened coconut."
 image = "/images/chicken-coconut-curry.png"
-tags = ["curry", "Indian", "chicken"]
+tags = ["Indian", "chicken"]
 title = "Chicken Coconut Curry"
 type = "post"
 
