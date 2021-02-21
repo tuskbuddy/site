@@ -3,7 +3,7 @@ categories = ["Asian"]
 date = 2020-12-17T23:13:00Z
 description = "Korean greatness."
 image = "/images/chicken-bulgogi.png"
-tags = ["Korean", "spicy", "chicken", "bulgogi"]
+tags = ["spicy", "chicken", "Asian"]
 title = "Chicken Bulgogi"
 type = "post"
 
