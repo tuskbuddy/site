@@ -3,7 +3,7 @@ categories = ["Mediterranean"]
 date = 2020-12-05T22:02:00Z
 description = "More rockin' chicken? Or fewer low-quality puns?"
 image = "/images/moroccan-chicken-thighs.png"
-tags = ["Moroccan", "Mediterranean", "chicken"]
+tags = ["Mediterranean", "chicken"]
 title = "Moroccan Chicken Thighs"
 type = "post"
 
