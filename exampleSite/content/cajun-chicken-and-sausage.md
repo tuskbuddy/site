@@ -3,7 +3,7 @@ categories = ["Cajun"]
 date = 2020-12-04T17:15:00Z
 description = "Spicy, creamy, and delicious."
 image = "/images/cajun-chicken-and-sausage.png"
-tags = ["chicken", "sausage", "spicy", "One pot"]
+tags = ["chicken", "sausage", "spicy", "one pot"]
 title = "Cajun Chicken and Sausage"
 type = "post"
 
