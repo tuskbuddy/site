@@ -3,7 +3,7 @@ categories = ["Desserts"]
 date = 2020-12-06T02:54:00Z
 description = "Chocolate cake on a fork. Headed to my mouth."
 image = "/images/vegan-chocolate-cake.png"
-tags = ["vegan", "chocolate", "cake", "dessert"]
+tags = ["chocolate", "cake", "dessert"]
 title = "Vegan Chocolate Cake"
 type = "post"
 
