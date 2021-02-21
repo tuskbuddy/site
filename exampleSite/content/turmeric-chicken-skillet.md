@@ -3,7 +3,7 @@ categories = ["One Pot Meal"]
 date = 2020-12-05T00:40:00Z
 description = "And it was all yellow."
 image = "/images/turmeric-chicken-skillet.png"
-tags = ["One Pot", "chicken", "cabbage", "turmeric", "healthy"]
+tags = ["One Pot", "chicken"]
 title = "Turmeric Chicken Skillet"
 type = "post"
 
