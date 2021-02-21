@@ -3,7 +3,7 @@ categories = ["Marinade"]
 date = 2020-12-09T00:35:00Z
 description = "Grilled goodness."
 image = "/images/sambal-chicken-thighs.png"
-tags = ["Marinade", "spicy", "chicken", "grilled"]
+tags = ["Marinade", "spicy", "chicken"]
 title = "Sambal Chicken Marinade"
 type = "post"
 
