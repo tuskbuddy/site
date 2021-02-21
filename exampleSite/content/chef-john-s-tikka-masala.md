@@ -3,7 +3,7 @@ categories = ["Indian"]
 date = 2020-11-29T18:22:00Z
 description = "It's so hard to go wrong with Indian food."
 image = "/images/chef-john-tikka-masala-feat.png"
-tags = ["Indian", "chicken", "Chef John", "tikka masala"]
+tags = ["Indian", "chicken"]
 title = "Chef John's Tikka Masala"
 type = "featured"
 
