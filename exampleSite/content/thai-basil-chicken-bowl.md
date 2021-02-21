@@ -3,7 +3,7 @@ categories = ["Stir Fry"]
 date = 2020-12-02T01:02:00Z
 description = "Stir Thai!"
 image = "/images/thai-basil.png"
-tags = ["Thai", "stir fry", "chicken", "spicy"]
+tags = ["stir fry", "chicken", "spicy"]
 title = "Thai Basil Chicken Bowl"
 type = "post"
 
