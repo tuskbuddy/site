@@ -4,7 +4,7 @@ date = 2021-02-21T21:24:00Z
 description = "The sausage in the thumbnail looks raw. I can assure you that you do not need to eat raw sausage to enjoy this soup."
 image = "/images/sausage-potato-spinach-soup.png"
 tags = ["soup"]
-title = "Sausage, Potato, and Spinach Soup"
+title = "Sausage, Potato, & Spinach Soup"
 type = "post"
 
 +++
