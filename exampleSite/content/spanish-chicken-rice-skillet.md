@@ -5,7 +5,7 @@ description = ""
 image = "/images/spanish-chicken-rice-feat.png"
 tags = [" chicken", "one-pot"]
 title = "Spanish Chicken & Rice Skillet"
-type = "featured"
+type = "post"
 
 +++
 This particular recipe is a ~~family favorite~~ bachelor favorite. Tomato and paprika is a foolproof combination, and the olive oil, garlic, and freshly ground black pepper bring it together nicely. This one-pot recipe offers an excellent meal with a small amount of preparation and minimal clean-up.
