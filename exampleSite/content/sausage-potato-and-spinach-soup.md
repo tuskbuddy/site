@@ -8,7 +8,7 @@ title = "Sausage, Potato, & Spinach Soup"
 type = "post"
 
 +++
-The browned sausage, peppery broth, and red pepper flakes give a spicy but homey quality to this soup. It's a little creamy with a diverse blend of greens, carrots, onions, and soft potatoes, perfect for a weeknight at home under a couple of blankets, watching the hottest new episode of _Cool Nifty Show About Which People Are Currently Talking_.
+The browned sausage, peppery broth, and red pepper flakes give a spicy but homey quality to this soup. It's a little creamy with a diverse blend of greens, onions, and soft potatoes, perfect for a weeknight at home under a cozy blanket.
 
 #### Where's this recipe from?
 
