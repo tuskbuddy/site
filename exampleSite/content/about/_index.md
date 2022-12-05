@@ -9,6 +9,6 @@ I'm an aerospace engineer from Ohio who currently lives in Houston, Texas. I enj
 
 ### Recipes
 
-Every recipe here is for the gluten-free and dairy-free eaters out there, and I hope you'll enjoy them as much as I do. Each one has been through kitchen testing to become 100% Wengerd-approved.
+Every recipe here is for the gluten-free and dairy-free eaters out there, and I hope you'll enjoy them as much as I do. Each one has been through kitchen testing to become 100% taste bud-approved.
 
 My analysis and personal tweaks for each recipe can be found in the posts. Each post also contains a link to the recipe's original page, where you can view the ingredients and shower the wonderful authors with your finest compliments.
