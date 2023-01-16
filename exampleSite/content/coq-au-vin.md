@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Chicken"]
 date = 2023-01-16T02:58:00Z
 description = "You are the Chef John, of your coq au vin!"
 image = "/images/coq-au-vin.png"
